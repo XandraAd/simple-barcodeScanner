@@ -1,0 +1,49 @@
+body {
+    background-color:  hsl(220, 15%, 89%);
+}
+.main-section {
+background-color: hsl(0, 0%, 100%);
+    margin-inline: 350px;
+    width: 350px;
+    border-radius: 5%;
+    display: grid;
+    grid-template-rows: 60% 40%;
+   
+    
+    }
+
+.card-section {
+   margin : 0vh  10vh; 
+
+
+}
+
+.card-section img{
+width: 40vh;
+height: 40vh;
+margin-block: 1.8rem;
+border-radius: 5%;
+
+}
+
+  .attribution { 
+  	width: 28vh;
+    margin-bottom: 2rem;
+  	padding-left: 2rem;
+  	padding-bottom: 1rem;
+    font-siz;e: 15px; 
+
+    
+ }
+
+  p {
+ 	font-weight: bold;
+ }
+
+  .attribution a {
+     color: hsl(228, 45%, 44%);
+     }
+
+  .ref {
+  	font-size: smaller;
+  }
